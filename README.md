@@ -1,4 +1,4 @@
-# C
+# Ensemble Forecasting
 Autor: Fernando Emilio Puntel
 02-2016
 Instituto Nacional de Pesquisas Espaciais
